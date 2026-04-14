@@ -1,0 +1,17 @@
+# GloVe embeddings - demasiado grande para GitHub (525 MB)
+# Se descarga automáticamente al correr el notebook (desde Google Drive)
+gloveembedding.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Entornos virtuales
+.venv/
+venv/
+env/
